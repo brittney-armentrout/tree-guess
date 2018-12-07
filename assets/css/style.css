@@ -1,0 +1,40 @@
+body {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 34px;
+    color: black;
+    background-image: url(../images/purptree.jpg);
+  }
+  
+* {
+    box-sizing: border-box;
+  }
+
+.jumbotron {
+    opacity: .75;
+    font-family: 'Give You Glory', cursive;
+}
+
+.container {
+    background: url(../images/tree_bark.png);
+    opacity: .9;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    font-family: 'Walter Turncoat', cursive;
+    border: 1px solid black;
+}
+
+#rules {
+    font-family: 'Walter Turncoat', cursive;
+}
+
+.dasher {
+    text-align: center;
+    justify-content: center;
+}
+
+h3 { 
+    float: left;
+}
